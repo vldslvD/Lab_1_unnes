@@ -14,7 +14,7 @@ public class Main {
             }
             if(sum == i) {
                 System.out.println(i);
-
+/////////
             }
         }
     }
